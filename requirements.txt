@@ -1,0 +1,20 @@
+Requirements:
+- 24VDC power supply
+- 5VDC power supply
+- stykace (uz mame 2)
+- relatka
+
+Inputs:
+- malo prasku
+- malo vody
+- cidlo preplaveni
+- pracka
+- cidlo tlaku
+
+Outputs:
+- motor praskovace
+- cerpadlo
+- vodni ventil
+- centralni ventil
+- blokovaci signal
+- kontrolka chyby
